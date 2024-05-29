@@ -2,18 +2,17 @@
 
 ## Brief about KartScanner
 
-KartScanner is a dynamic and responsive e-commerce platform that allows users to search, view, and purchase a variety of products. With a user-friendly interface and efficient product listing, KartScanner provides a seamless shopping experience. The website fetches product data from an external API and displays it in a visually appealing and organized manner.
+KartScanner is a dynamic and responsive e-commerce platform that allows users to search and view a variety of products. With a user-friendly interface and efficient product listing, KartScanner provides a seamles experience. The website fetches product data from an external API and displays it in a visually appealing and organized manner.
 
 ## Purpose
 
-The primary purpose of building KartScanner is to create an intuitive and efficient shopping platform that offers users a smooth and enjoyable browsing experience. By leveraging modern web technologies, KartScanner ensures fast load times, responsive design, and easy navigation.
+The primary purpose of building KartScanner is to create an intuitive and efficient shopping platform homepage that offers users a smooth and enjoyable browsing experience. By leveraging modern web technologies, KartScanner ensures fast load times, responsive design, and easy navigation.
 
 ## Features
 
 - **Product Search:** Users can search for products using the search bar, which filters products in real-time.
 - **Responsive Design:** The website is designed to be fully responsive, ensuring a seamless experience on both desktop and mobile devices.
 - **Product Listing:** Products are displayed in a grid layout with images, titles, and prices.
-- **Hover Effects:** Interactive hover effects on product listings enhance the user experience.
 - **Loading Indicator:** A loading indicator is displayed while fetching data from the API to improve user feedback.
 
 ## Getting Started
