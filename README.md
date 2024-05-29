@@ -62,3 +62,6 @@ Once the project is set up and running locally, you can:
 - **Search for Products:** Use the search bar at the top to filter products by their title.
 - **Browse Products:** View the list of products displayed in a responsive grid layout.
 - **View Product Details:** Click on any product to view more details (this will be implemented in the individual product pages).
+![Screenshot 2024-05-29 231723](https://github.com/GarvitV957/kartscanner/assets/79037725/8c9c6a6b-2a97-47e3-b634-b643c9169c20)
+![Screenshot 2024-05-29 231851](https://github.com/GarvitV957/kartscanner/assets/79037725/c593052a-3a4e-4e18-a6fd-37e1f3c08fdb)
+![Screenshot 2024-05-29 231936](https://github.com/GarvitV957/kartscanner/assets/79037725/41047305-09ac-4b13-9d6b-ce2bbfedc286)
